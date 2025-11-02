@@ -29,7 +29,7 @@ The trained YOLOv5 model can identify weapons in images or video streams, provid
 
 ---
 
-## 🧩 Technologies Used
+## Technologies Used
 
 - **YOLOv5** (PyTorch)
 - **OpenCV**  
