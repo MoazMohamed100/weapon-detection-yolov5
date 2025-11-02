@@ -43,5 +43,3 @@ The trained YOLOv5 model can identify weapons in images or video streams, provid
 
 The YOLOv5 model demonstrates reliable performance in detecting weapons in various environments and lighting conditions.  
 Example outputs include bounding boxes and confidence scores for each detected weapon type.
-```bash
-python detect.py --weights models/best.pt --source test_images/
